@@ -1,20 +1,20 @@
-/* 上にタイトルをつけた囲み枠 */
+//
 .box8 {
   margin: 1em auto;
-  background: #fff3e8; /* green */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.22); /* green */
+  background: #fff3e8; / green /
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.22); / green /
   width: 95%;
 }
 
 .box8-title {
   font-size: 1.1em;
-  background: #ffaaaa; /* green */
+  background: #ffaaaa; / green /
   padding: 2px;
   text-align: center;
-  color: #FFF; /* green */
+  color: #FFF; / green /
   font-weight: bold;
   letter-spacing: 0.05em;
-  box-shadow: 0 0 4px rgba(0, 0, 0, 0.22); /* green */
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.22); / green /
 }
 
 .box8 p {
